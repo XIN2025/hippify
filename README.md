@@ -2,7 +2,7 @@
 
 Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
-![Project Image](https://github.com/XIN2025/ Hippify/blob/master/public/thumbnail.jpg)
+![Project Image](https://github.com/XIN2025/hippify/blob/master/public/thumbnail.jpg)
 
 ## Features
 
