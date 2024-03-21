@@ -2,8 +2,6 @@
 
 Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
-![Project Image](https://github.com/XIN2025/hippify/blob/master/public/thumbnail.jpg)
-
 ## Features
 
 - 🛠️ Complete marketplace built from scratch in Next.js 14
@@ -22,7 +20,7 @@ Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 To get started with this project, run
 
 ```bash
-  git
+  git clone https://github.com/XIN2025/hippify.git
 ```
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
