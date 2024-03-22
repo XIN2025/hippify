@@ -50,7 +50,6 @@ export const appRouter = router({
         limit,
         page,
       });
-      console.log("items", items);
 
       return {
         items,

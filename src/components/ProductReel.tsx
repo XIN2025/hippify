@@ -28,7 +28,7 @@ const ProductReel = (props: ProductReelProps) => {
         getNextPageParam: (lastPage) => lastPage.nextPage,
       }
     );
-  console.log(queryResults);
+ 
   const products = queryResults?.pages.flatMap((page) => page.items);
 
   let map: (Product | null)[] = [];
