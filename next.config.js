@@ -8,7 +8,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "hippify-production.up.railway.app",
+        hostname: "https://hippify.onrender.com",
       },
     ],
   },

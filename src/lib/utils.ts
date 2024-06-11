@@ -58,7 +58,7 @@ export function constructMetadata({
       creator: "@Rajeshs25572732",
     },
     icons,
-    metadataBase: new URL("https://hippify.up.railway.app"),
+    metadataBase: new URL("https://hippify.onrender.com"),
     ...(noIndex && {
       robots: {
         index: false,
